@@ -1,4 +1,4 @@
-package master2018.flink;
+package master2018.flink; //test git changes
 
 import org.apache.flink.api.common.functions.FilterFunction;
 import org.apache.flink.api.common.functions.MapFunction;
